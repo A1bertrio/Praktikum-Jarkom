@@ -1,4 +1,4 @@
-# **LAPORAN PRAKTIKUM JARINGAN KOMPUTER - MODUL 4**
+# **LAPORAN PRAKTIKUM JARINGAN KOMPUTER - MODUL 6**
 ## **Transmission Control Protocol (TCP) Analysis**
 
 ### **Identitas Mahasiswa**
